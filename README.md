@@ -32,3 +32,6 @@ Some additional information that you might need for this project is below.
     - MD: Memphis Delta
 
 * County SES: County Socioeconomic Status is based on the Appalachian Regional Commission's county economic status index. See https://www.tn.gov/transparenttn/state-financial-overview/open-ecd/openecd/tnecd-performance-metrics/openecd-long-term-objectives-quick-stats/distressed-counties.html. 
+
+ANALYSIS CREDIT: NASHVILLE SOFTWARE SCHOOL COHORT DDA7  
+View our class webpage here: https://nss-full-time-data-analytics-7.github.io/
